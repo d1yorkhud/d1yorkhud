@@ -1,6 +1,4 @@
-<div align="center>
 
-<pre>
 
                                                          
                                     .     ..           :~7Y.^ ^.                            
@@ -51,5 +49,3 @@
                                                
 
 
-</pre>
-</div># d1yorkhud
